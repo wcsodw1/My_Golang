@@ -7,4 +7,4 @@ Golang Program and Note
 + 泛用的程式語言, 強調效能與易學
 
 ## 2.Install Golang : 
-+ ()[https://golang.org/dl/]
++ [Golang官方](https://golang.org/dl/)
